@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0bfcd4-fe2b-4dc3-89eb-64d92ad4ec14" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q1/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q10/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q11/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q12/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q13/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q14/main.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/q15/main.scala" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/q2/node1.scala" afterPath="$PROJECT_DIR$/src/q2/node11.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
